@@ -1,6 +1,6 @@
 # Awesome Artificial Intelligence (AI)
 
-A curated list of awesome Artificial Intelligence (AI) courses, books, video lectures and papers. 
+A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. 
 
 Contributions most welcome.
 
@@ -13,6 +13,8 @@ Contributions most welcome.
 * [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
 * [Artificial Intelligence Planning](https://www.coursera.org/course/aiplan) - Planning is a fundamental part of intelligent systems. In this course, for example, you will learn the basic algorithms that are used in robots to deliberate over a course of actions to take
 * [Artificial Intelligence for Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
+* [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
+* [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 
 ## Books About Artificial Intelligence
 
@@ -35,3 +37,21 @@ Contributions most welcome.
 
 * [Foundations of computational agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
 * [The Quest for Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
+
+## Code
+
+* [AIMA Lisp Source Code](http://aima.cs.berkeley.edu/lisp/doc/overview.html) - Common Lisp source code for "Artificial Intelligence A Modern Approach"
+
+## Videos/Talks
+
+* [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
+
+## Learning
+
+* [Deep Learning. Methods and Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Free book from Microsoft Research
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
+* [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
+
+## Misc
+
+* [Open Congition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
